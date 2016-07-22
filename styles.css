@@ -1,0 +1,48 @@
+/* add your CSS here */
+
+body{
+  border-style: solid;
+  border-color: red;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+  box-shadow: 10px 10px 5px grey;
+  }
+
+.animal-name {
+    font-size: 1.5em;
+    color: red;
+    padding: 10px;
+    margin: 10px;
+    text-shadow: 2px 2px grey;
+  }
+
+.border-spacing {
+    border-collapse: separate;
+    border-spacing: 10px 50px;
+
+}
+
+.fact-label {
+  font-style: italic;
+}
+
+span {
+  font-weight: bold;
+}
+
+.list-fact {
+  list-style-type: none;
+  
+  }
+
+.border {
+  font-size: 1em;
+  color: white;
+  border: 2.5px solid red;
+  padding: 5px;
+  margin: 0px;
+  background: grey;
+  background-clip: padding-box;
+ 
+}
